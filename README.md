@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @SakthiHarish6
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @SakthiHarish6
+- Currently learning Full stack web development
 
 <!---
 SakthiHarish6/SakthiHarish6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
